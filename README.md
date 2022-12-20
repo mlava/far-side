@@ -6,4 +6,4 @@ You can trigger this extension by:
 
 An example output:
 
-![image](https://user-images.githubusercontent.com/6857790/208586684-d70533ee-caaa-4cc4-b4ee-235aeb60b654.png)
+![image](https://user-images.githubusercontent.com/6857790/208587441-7686d819-4e19-4e7b-aed0-2200e9733a61.png)
