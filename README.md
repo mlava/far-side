@@ -1,5 +1,8 @@
 Embed the first of the daily comics from The Far Side by Gary Larson, as shown at https://www.thefarside.com/.
 
+**New:**
+- updated to use RR Hotkeys
+
 You can trigger this extension by:
 1. opening the Command Palette and selecting 'Import today's comic from The Far Side'
 2. using the SmartBlock command <%FARSIDE%>
